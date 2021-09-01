@@ -16,9 +16,13 @@ A new Flutter project.![Screenshot_2021-08-31-14-06-30-123_com example our_news_
 
 This project is a starting point for a Flutter application.
 
+
+
 Fetches data from api and displays in app.
 
-Its shows you breaking news all around the globe gives you some option to filter out news in your own domain.
-you can search out news according to your own wish.
-Also you can save some news to cloud firestore.
-you can also delete your bookmarks.
+Its shows you breaking news all around the globe. 
+Gives you some option to filter out news in your own domain.
+You can search out news according to your own wish.
+Can save some news to cloud firestore and read when u wish. .
+You can also delete your bookmarks.
+
